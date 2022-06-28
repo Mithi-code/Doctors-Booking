@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`check login components matches actual design 1`] = `
+<section
+  className="reservation"
+>
+  <div
+    className="table"
+    id="table"
+  />
+  <div
+    style={
+      Object {
+        "display": "none",
+      }
+    }
+  >
+    Count:
+    0
+  </div>
+</section>
+`;
